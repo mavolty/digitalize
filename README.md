@@ -26,34 +26,137 @@ A full-stack web platform that enforces a **multi-stage collaborative authoring 
 
 ## Screenshots
 
+### Authentication
+
 <div align="center">
-<img src="screenshots/login.png" alt="Login page" width="700" />
+<img src="screenshots/01-auth/01-login-page.png" alt="Login page" width="700" />
 <p><em>Login — Clean, professional authentication interface</em></p>
 </div>
 
+### Dashboard
+
 <div align="center">
-<img src="screenshots/dashboard.png" alt="Dashboard" width="700" />
+<img src="screenshots/02-dashboard/01-dashboard.png" alt="Dashboard" width="700" />
 <p><em>Dashboard — Role-based overview with activity statistics</em></p>
 </div>
 
+### Framework Management
+
 <div align="center">
-<img src="screenshots/framework-preparation.png" alt="Framework Preparation" width="700" />
-<p><em>Framework Preparation — Server-side data tables with filters and status tracking</em></p>
+<img src="screenshots/03-framework/01-framework-list.png" alt="Framework list" width="700" />
+<p><em>Framework List — All frameworks with server-side data tables</em></p>
 </div>
 
 <div align="center">
-<img src="screenshots/question-writing.png" alt="Question Writing" width="700" />
+<img src="screenshots/03-framework/02-framework-detail.png" alt="Framework detail" width="700" />
+<p><em>Framework Detail — Hierarchical tree structure with detail view</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/03-framework/03-framework-template-list.png" alt="Framework templates" width="700" />
+<p><em>Framework Templates — Template management with CRUD operations</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/03-framework/04-framework-preparation-list.png" alt="Framework preparation" width="700" />
+<p><em>Framework Preparation — Preparation instances with status tracking and filters</em></p>
+</div>
+
+### Outline Management
+
+<div align="center">
+<img src="screenshots/04-outline/01-outline-list.png" alt="Outline list" width="700" />
+<p><em>Outline List — All outlines with filtering</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/04-outline/02-outline-detail.png" alt="Outline detail" width="700" />
+<p><em>Outline Detail — Hierarchical outline structure</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/04-outline/03-outline-template-list.png" alt="Outline templates" width="700" />
+<p><em>Outline Templates — Template management for outlines</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/04-outline/04-outline-preparation-list.png" alt="Outline preparation" width="700" />
+<p><em>Outline Preparation — Preparation instances with progress tracking</em></p>
+</div>
+
+### Question Writing Pipeline
+
+<div align="center">
+<img src="screenshots/05-question-writing/01-question-writing-list.png" alt="Question writing list" width="700" />
 <p><em>Question Writing — Event-based cards showing writing assignments with progress indicators</em></p>
 </div>
 
 <div align="center">
-<img src="screenshots/question-review.png" alt="Question Review" width="700" />
+<img src="screenshots/05-question-writing/02-question-writing-detail.png" alt="Question writing detail" width="700" />
+<p><em>Writing Detail — Individual question authoring interface</em></p>
+</div>
+
+### Question Review Pipeline
+
+<div align="center">
+<img src="screenshots/06-question-review/01-question-review-list.png" alt="Question review list" width="700" />
 <p><em>Question Review — Review pipeline with status-based filtering</em></p>
 </div>
 
 <div align="center">
-<img src="screenshots/questions.png" alt="Questions" width="700" />
+<img src="screenshots/06-question-review/02-question-review-detail.png" alt="Question review detail" width="700" />
+<p><em>Review Detail — Peer review interface with revision tracking</em></p>
+</div>
+
+### Question Collection
+
+<div align="center">
+<img src="screenshots/07-questions/01-questions-list.png" alt="Questions list" width="700" />
 <p><em>Question Collection — Centralized repository of published questions</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/07-questions/02-questions-detail.png" alt="Questions detail" width="700" />
+<p><em>Question Detail — Full question view with metadata</em></p>
+</div>
+
+### Event Management
+
+<div align="center">
+<img src="screenshots/08-events/01-event-list.png" alt="Event list" width="700" />
+<p><em>Event List — All exam events with status and team assignments</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/08-events/02-event-create.png" alt="Event create" width="700" />
+<p><em>Event Creation — Form for creating new exam events</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/08-events/03-event-review-not-set.png" alt="Event review not set" width="700" />
+<p><em>Pending Reviews — Events awaiting review assignment</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/08-events/04-event-review-already-set.png" alt="Event review set" width="700" />
+<p><em>Active Reviews — Events with assigned review teams</em></p>
+</div>
+
+### User Management & RBAC
+
+<div align="center">
+<img src="screenshots/09-user-management/01-users-list.png" alt="Users list" width="700" />
+<p><em>User Management — User accounts with role assignments</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/09-user-management/02-roles-list.png" alt="Roles list" width="700" />
+<p><em>Roles — Role definitions with permission mapping</em></p>
+</div>
+
+<div align="center">
+<img src="screenshots/09-user-management/03-permissions-list.png" alt="Permissions list" width="700" />
+<p><em>Permissions — Granular permission management</em></p>
 </div>
 
 ---
