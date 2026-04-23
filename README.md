@@ -2,7 +2,7 @@
 
 # Bank Soal — National Exam Question Management Platform
 
-**End-to-end collaborative platform for authoring, reviewing, and managing national examination questions — built for Indonesia's Ministry of Education (Kemendikbud).**
+**End-to-end collaborative platform for authoring, reviewing, and managing national examination questions — built for a national education ministry.**
 
 [![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![Livewire](https://img.shields.io/badge/Livewire-3-FB70D9?style=flat-square)](https://livewire.laravel.com)
@@ -16,7 +16,7 @@
 
 ## The Problem
 
-Indonesia's national exam question production involved **distributed educator teams** managing content through spreadsheets and email threads — with no audit trail, no enforced review workflow, and no centralized repository. Questions could skip review stages, reviewers had no visibility into revision history, and quality control was entirely manual.
+National exam question production involved **distributed educator teams** managing content through spreadsheets and email threads — with no audit trail, no enforced review workflow, and no centralized repository. Questions could skip review stages, reviewers had no visibility into revision history, and quality control was entirely manual.
 
 ## The Solution
 
@@ -256,4 +256,4 @@ Each role sees a scoped dashboard and can only access features within their perm
 
 **mavolty** — [github.com/mavolty](https://github.com/mavolty)
 
-Built as a full-stack developer for Indonesia's Ministry of Education (Kemendikbud).
+Built as a full-stack developer for a national education ministry.
